@@ -1,0 +1,37 @@
+[
+  {
+    "S_RegNo": 2147118,
+    "S_Name": "samith",
+    "S_class": "2MCA-A",
+    "S_Event": "coding",
+    "S_Team": "viznotech"
+  },
+  {
+    "S_RegNo": 2147211,
+    "S_Name": "Alwin",
+    "S_class": "2MCA-B",
+    "S_Event": "Dancing",
+    "S_Team": "techNoVis"
+  },
+  {
+    "S_RegNo": 2147227,
+    "S_Name": "Rajesh",
+    "S_class": "2MCA-B",
+    "S_Event": "tag coding",
+    "S_Team": "TechRev"
+  },
+  {
+    "S_RegNo": 2147228,
+    "S_Name": "Rakesh",
+    "S_class": "2MCA-B",
+    "S_Event": "singing",
+    "S_Team": "bloomers"
+  },
+  {
+    "S_RegNo": 2147230,
+    "S_Name": "ramesh",
+    "S_class": "2MCA-B",
+    "S_Event": "Dancing",
+    "S_Team": "techNoVis"
+  }
+]
